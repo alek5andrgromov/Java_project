@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="New changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Stepic/PrimitiveType.java" afterPath="$PROJECT_DIR$/src/Stepic/PrimitiveType.java" />
     </list>
     <ignored path="project1_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2155,12 +2153,20 @@
       <workItem from="1468510517249" duration="181000" />
       <workItem from="1468510765826" duration="48000" />
       <workItem from="1468512889431" duration="499000" />
-      <workItem from="1468515568348" duration="474000" />
+      <workItem from="1468515568348" duration="501000" />
     </task>
+    <task id="LOCAL-00001" summary="New changes">
+      <created>1468516066488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468516066488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186369000" />
+    <option name="totallyTimeSpent" value="186396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
