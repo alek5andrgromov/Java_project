@@ -8,6 +8,7 @@ public class PrimitiveType {
     public static void main(String[] args) {
       long d = typeprim(843, 0, 5);
         System.out.println("d = " + d);
+        System.out.println("d = " + d);
     }
 
     public static long typeprim(long a, long b, int c) {
@@ -23,5 +24,8 @@ public class PrimitiveType {
         long d = b1 | c1;
 
         return d;
+
+
+
     }
 }
