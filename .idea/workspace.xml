@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="">
+    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="New changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00000.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00000.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00001x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001x.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib11.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App21fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App21fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib11.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App40.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App40x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40x.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AppCounter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/AppCounter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayInverter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayInverterTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverterTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BubbleSorter_a.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/BubbleSorter_a.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HelloWorld1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsertionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/InsertionSorter_q.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntHolder.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntHolderIII.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolderIII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsDigitDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IsDigitDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_0.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_2.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_3.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_7.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/App00XX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part1/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListContains.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListContains.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetFirst.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetFirst.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetLast.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetLast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetMiddle.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetMiddle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertFirst.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertFirst.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertLast.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertLast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertMiddle.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertMiddle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part2/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part3/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part3/app00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part4/appxxx.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part4/appxxx.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part5/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part5/app00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App30.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App31.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/AllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/DoubleAllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/DownloadFromInternet_lab.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/IOUtils.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/TestBAOS.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_0_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_1_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_2_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_3_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App001.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App00_$.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App00_$.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App05.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/AppXXX1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/part3/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/part3/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/AppXXX.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part1/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part2/App02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part4/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part4/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part2/App02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App05.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/Ok.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/Ok.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Merger.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Merger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Node.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ParserTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ParserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Parser_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Parser_q.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PermutatorTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/PermutatorTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutator_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Permutator_q.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Quiz.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Quiz.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SelectionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SelectionSorter_q.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleLLUtils_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SingleLLUtils_1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SubstringDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SubstringDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app00.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app0001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0001.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app0002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0002.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/intvalue01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/intvalue01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recurceapp00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/recurceapp00.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project1_1.iws" />
@@ -27,18 +130,7 @@
     <favorites_list name="project1_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrimitiveType.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stepic/PrimitiveType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,10 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lecture10/part1/app01.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part1/app02.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part1/app03.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part1/app04.java" />
         <option value="$PROJECT_DIR$/src/Lecture10/part2/App00.java" />
         <option value="$PROJECT_DIR$/src/Lecture10/app00.java" />
         <option value="$PROJECT_DIR$/src/Lecture10/part3/app00.java" />
@@ -110,6 +198,10 @@
         <option value="$PROJECT_DIR$/src/Lectrure17/TestListInsertLast.java" />
         <option value="$PROJECT_DIR$/src/Lectrure17/TestListInsertMiddle.java" />
         <option value="$PROJECT_DIR$/src/Stepic/PrimitiveType.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/App10.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Porayadok_operation/LoopForOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java" />
       </list>
     </option>
   </component>
@@ -130,8 +222,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
     <option name="y" value="25" />
-    <option name="width" value="1366" />
+    <option name="width" value="676" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -173,7 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projectfirst" />
+              <option name="myItemId" value="Java_project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -183,29 +276,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projectfirst" />
+              <option name="myItemId" value="Java_project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project1_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projectfirst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Stepic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,11 +325,11 @@
     <configuration default="false" name="TestListGetMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lectrure17.*" />
+          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lectrure17.TestListGetMiddle" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListGetMiddle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -270,11 +345,11 @@
     <configuration default="false" name="TestListInsertFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lectrure17.*" />
+          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lectrure17.TestListInsertFirst" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertFirst" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,11 +365,11 @@
     <configuration default="false" name="TestListInsertLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lectrure17.*" />
+          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lectrure17.TestListInsertLast" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertLast" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,11 +385,11 @@
     <configuration default="false" name="TestListInsertMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Lectrure17.*" />
+          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Lectrure17.TestListInsertMiddle" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertMiddle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -811,7 +886,7 @@
     </configuration>
     <configuration default="false" name="App101" type="Application" factoryName="Application" folderName="Lecture11">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrure11.Part2.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure11.Part2.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -826,7 +901,7 @@
     </configuration>
     <configuration default="false" name="App100" type="Application" factoryName="Application" folderName="Lecture11">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrure11.Part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure11.Part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -841,7 +916,7 @@
     </configuration>
     <configuration default="false" name="App102" type="Application" factoryName="Application" folderName="Lecture11">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrure11.Part2.App02" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure11.Part2.App02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -856,7 +931,7 @@
     </configuration>
     <configuration default="false" name="App1230" type="Application" factoryName="Application" folderName="Lecture12">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture12.part4.App30" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture12.part4.App30" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -871,7 +946,7 @@
     </configuration>
     <configuration default="false" name="App1201" type="Application" factoryName="Application" folderName="Lecture12">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture12.part1.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture12.part1.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -886,7 +961,7 @@
     </configuration>
     <configuration default="false" name="App1210" type="Application" factoryName="Application" folderName="Lecture12">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture12.part4.App10" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture12.part4.App10" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -901,7 +976,7 @@
     </configuration>
     <configuration default="false" name="App1200" type="Application" factoryName="Application" folderName="Lecture12">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture12.part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture12.part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -916,7 +991,7 @@
     </configuration>
     <configuration default="false" name="App1231" type="Application" factoryName="Application" folderName="Lecture12">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture12.part4.App31" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture12.part4.App31" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -931,7 +1006,7 @@
     </configuration>
     <configuration default="false" name="lab1" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13.Lab.DownloadFromInternet_lab" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13.Lab.DownloadFromInternet_lab" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -946,7 +1021,7 @@
     </configuration>
     <configuration default="false" name="0Charset" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13._0_Charset" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13._0_Charset" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -961,7 +1036,7 @@
     </configuration>
     <configuration default="false" name="1Charset" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13._1_Charset" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13._1_Charset" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -976,7 +1051,7 @@
     </configuration>
     <configuration default="false" name="2Charset" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13._2_Charset" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13._2_Charset" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -991,7 +1066,7 @@
     </configuration>
     <configuration default="false" name="3Charset" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13._3_Charset" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13._3_Charset" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1006,7 +1081,7 @@
     </configuration>
     <configuration default="false" name="lab2IOUtils" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13.Lab.IOUtils" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13.Lab.IOUtils" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1021,7 +1096,7 @@
     </configuration>
     <configuration default="false" name="lab3TestBAOS" type="Application" factoryName="Application" folderName="Lecture13">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture13.Lab.TestBAOS" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture13.Lab.TestBAOS" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1036,7 +1111,7 @@
     </configuration>
     <configuration default="false" name="FileTest_0" type="Application" factoryName="Application" folderName="Lectrue14">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrue14.FileTest_0" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrue14.FileTest_0" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1051,7 +1126,7 @@
     </configuration>
     <configuration default="false" name="FileTest_1" type="Application" factoryName="Application" folderName="Lectrue14">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrue14.FileTest_1" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrue14.FileTest_1" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1066,7 +1141,7 @@
     </configuration>
     <configuration default="false" name="FileTest_2" type="Application" factoryName="Application" folderName="Lectrue14">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrue14.FileTest_2" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrue14.FileTest_2" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1081,7 +1156,7 @@
     </configuration>
     <configuration default="false" name="FileTest_3" type="Application" factoryName="Application" folderName="Lectrue14">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrue14.FileTest_3" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrue14.FileTest_3" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1096,7 +1171,7 @@
     </configuration>
     <configuration default="false" name="FileTest_7" type="Application" factoryName="Application" folderName="Lectrue14">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lectrue14.FileTest_7" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrue14.FileTest_7" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1111,7 +1186,7 @@
     </configuration>
     <configuration default="false" name="HelloWorld1" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="HelloWorld1" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.HelloWorld1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1126,7 +1201,7 @@
     </configuration>
     <configuration default="false" name="App8201" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture8.part2.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture8.part2.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1141,7 +1216,7 @@
     </configuration>
     <configuration default="false" name="App8200" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture8.part2.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture8.part2.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1156,7 +1231,7 @@
     </configuration>
     <configuration default="false" name="App104xxx" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part4.appxxx" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part4.appxxx" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1171,7 +1246,7 @@
     </configuration>
     <configuration default="false" name="App9000" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1186,7 +1261,7 @@
     </configuration>
     <configuration default="false" name="App9001" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1201,7 +1276,7 @@
     </configuration>
     <configuration default="false" name=" App9002 " type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.part2.App02" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.part2.App02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1216,7 +1291,7 @@
     </configuration>
     <configuration default="false" name=" App9003" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.part4.App03" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.part4.App03" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1231,7 +1306,7 @@
     </configuration>
     <configuration default="false" name="App9004" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.part4.App04" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.part4.App04" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1246,7 +1321,7 @@
     </configuration>
     <configuration default="false" name="App9005" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.part1.part4.App05" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.part1.part4.App05" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1261,7 +1336,7 @@
     </configuration>
     <configuration default="false" name="App10000" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part1.app00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part1.app00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1276,7 +1351,7 @@
     </configuration>
     <configuration default="false" name="App10001" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part1.app01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part1.app01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1291,7 +1366,7 @@
     </configuration>
     <configuration default="false" name="App10002" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part1.app02" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part1.app02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1306,7 +1381,7 @@
     </configuration>
     <configuration default="false" name="App100003" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part1.app03" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part1.app03" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1321,7 +1396,7 @@
     </configuration>
     <configuration default="false" name="App10004" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part1.app04" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part1.app04" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1336,7 +1411,7 @@
     </configuration>
     <configuration default="false" name="App10100" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture10.part2.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture10.part2.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1351,7 +1426,7 @@
     </configuration>
     <configuration default="false" name="app" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="app" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.app" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1366,7 +1441,7 @@
     </configuration>
     <configuration default="false" name="AppXXX" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.part3.AppXXX" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.part3.AppXXX" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1381,7 +1456,7 @@
     </configuration>
     <configuration default="false" name="ArrayInverterTest" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ArrayInverterTest" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.ArrayInverterTest" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1396,7 +1471,7 @@
     </configuration>
     <configuration default="false" name="app0" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="app00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.app00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1411,7 +1486,7 @@
     </configuration>
     <configuration default="false" name="app01" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="app01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.app01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1426,7 +1501,7 @@
     </configuration>
     <configuration default="false" name="App01" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1441,7 +1516,7 @@
     </configuration>
     <configuration default="false" name="App02" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.App02" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.App02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1456,7 +1531,7 @@
     </configuration>
     <configuration default="false" name="app0001" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="app0001" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.app0001" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1471,7 +1546,7 @@
     </configuration>
     <configuration default="false" name="app0002" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="app0002" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.app0002" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1486,7 +1561,7 @@
     </configuration>
     <configuration default="false" name="App10" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App10" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App10" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1501,7 +1576,7 @@
     </configuration>
     <configuration default="false" name="InsertionSorter_q" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="InsertionSorter_q" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.InsertionSorter_q" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1516,7 +1591,7 @@
     </configuration>
     <configuration default="false" name="recurceapp00" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="recurceapp00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.recurceapp00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1531,7 +1606,7 @@
     </configuration>
     <configuration default="false" name="App10fib" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App10fib" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App10fib" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1546,7 +1621,7 @@
     </configuration>
     <configuration default="false" name="App10fib11" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App10fib11" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App10fib11" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1561,7 +1636,7 @@
     </configuration>
     <configuration default="false" name="App21fib" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App21fib" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App21fib" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1576,7 +1651,7 @@
     </configuration>
     <configuration default="false" name=" App21fib11" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App21fib11" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App21fib11" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1591,7 +1666,7 @@
     </configuration>
     <configuration default="false" name="IsDigitDemo" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="IsDigitDemo" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.IsDigitDemo" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1606,7 +1681,7 @@
     </configuration>
     <configuration default="false" name="SubstringDemo" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SubstringDemo" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.SubstringDemo" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1621,7 +1696,7 @@
     </configuration>
     <configuration default="false" name="AppXXX!" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.part3.AppXXX" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.part3.AppXXX" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1636,7 +1711,7 @@
     </configuration>
     <configuration default="false" name="App00" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture7.part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture7.part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1651,7 +1726,7 @@
     </configuration>
     <configuration default="false" name="App0000" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture7.part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture7.part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1666,7 +1741,7 @@
     </configuration>
     <configuration default="false" name="App702" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture7.part2.App02" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture7.part2.App02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1681,7 +1756,7 @@
     </configuration>
     <configuration default="false" name="App7400" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture7.part4.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture7.part4.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1696,7 +1771,7 @@
     </configuration>
     <configuration default="false" name="App8100" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture8.part1.App00" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture8.part1.App00" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1711,7 +1786,7 @@
     </configuration>
     <configuration default="false" name="App8101" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture8.part1.App01" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture8.part1.App01" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1726,7 +1801,7 @@
     </configuration>
     <configuration default="false" name="AppXXX1" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.AppXXX1" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.AppXXX1" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1741,7 +1816,7 @@
     </configuration>
     <configuration default="false" name="ParserTest" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.ParserTest" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1756,7 +1831,7 @@
     </configuration>
     <configuration default="false" name="PermutatorTest" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PermutatorTest" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.PermutatorTest" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1771,7 +1846,7 @@
     </configuration>
     <configuration default="false" name="App00000" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App00000" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App00000" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1786,7 +1861,7 @@
     </configuration>
     <configuration default="false" name="App04" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.App04" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.App04" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1801,7 +1876,7 @@
     </configuration>
     <configuration default="false" name="App05" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.App05" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.App05" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1816,7 +1891,7 @@
     </configuration>
     <configuration default="false" name="App001" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Lecture6.App001" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lecture6.App001" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1831,7 +1906,7 @@
     </configuration>
     <configuration default="false" name="App00001" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App00001" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App00001" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1846,7 +1921,7 @@
     </configuration>
     <configuration default="false" name="AppCounter" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AppCounter" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.AppCounter" />
       <option name="VM_PARAMETERS" value="-verbose:gc" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1861,7 +1936,7 @@
     </configuration>
     <configuration default="false" name="App00001x" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App00001x" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App00001x" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1876,7 +1951,7 @@
     </configuration>
     <configuration default="false" name="App00002" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App00002" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App00002" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1891,7 +1966,7 @@
     </configuration>
     <configuration default="false" name="App40x" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App40x" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App40x" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1906,7 +1981,7 @@
     </configuration>
     <configuration default="false" name="App40" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App40" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection1_5.App40" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -2154,6 +2229,8 @@
       <workItem from="1468510765826" duration="48000" />
       <workItem from="1468512889431" duration="499000" />
       <workItem from="1468515568348" duration="501000" />
+      <workItem from="1469370244607" duration="1053000" />
+      <workItem from="1469371631574" duration="274000" />
     </task>
     <task id="LOCAL-00001" summary="New changes">
       <created>1468516066488</created>
@@ -2166,7 +2243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186396000" />
+    <option name="totallyTimeSpent" value="187723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2178,33 +2255,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="0" />
+    <frame x="683" y="25" width="676" height="743" extended-state="4" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792792" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006431" sideWeight="0.4908953" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3006431" sideWeight="0.4908953" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33873874" sideWeight="0.5121396" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.5243243" sideWeight="0.48786038" order="10" side_tool="false" content_ui="combo" x="765" y="482" width="589" height="269" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21927163" sideWeight="0.4830918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21815287" sideWeight="0.4830918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24879615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28410915" sideWeight="0.5169082" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.5243243" sideWeight="0.48786038" order="10" side_tool="false" content_ui="combo" x="765" y="482" width="589" height="269" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792792" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2260,54 +2337,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/OutputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/BufferedOutputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/Collections.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/part1/App01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure11/Part2/App02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure11/Part2/App01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/part4/App10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/part1/App00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/DataOutput.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/App00.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure11/App00XX.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
@@ -2316,21 +2353,21 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Double.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/zip/GZIPInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/part4/App30.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture12/part4/App31.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/_0_Charset.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
@@ -2338,56 +2375,56 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/Reader.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/_3_Charset.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/_2_Charset.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/_1_Charset.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/Lab/DoubleAllocateStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/Lab/AllocateStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/Lab/TestBAOS.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/Lab/IOUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture13/Lab/DownloadFromInternet_lab.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -2396,49 +2433,49 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/FileFilter.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/File.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lectrue14/FileTest_0.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrue14/FileTest_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrue14/FileTest_1.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrue14/FileTest_3.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld1.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrue14/FileTest_7.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quiz.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Quiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -2457,21 +2494,14 @@
     <entry file="file://$PROJECT_DIR$/src/Lecture16/IteratorUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/Lecture16/IntervalIterator.java" />
     <entry file="file://$PROJECT_DIR$/src/Lecture16/IntervalIterable.java" />
-    <entry file="file://$PROJECT_DIR$/src/app00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListContains.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListContains.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListGetFirst.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetFirst.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -2485,35 +2515,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListGetMiddle.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetMiddle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListInsertFirst.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertFirst.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListInsertLast.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertLast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListGetLast.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetLast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lectrure17/TestListInsertMiddle.java">
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertMiddle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
@@ -2524,6 +2554,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
