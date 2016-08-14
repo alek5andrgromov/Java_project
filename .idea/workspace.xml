@@ -1,111 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="New changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00000.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00000.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00001x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001x.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App00002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App10fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib11.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App21fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App21fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib11.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App40.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/App40x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40x.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AppCounter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/AppCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayInverter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ArrayInverterTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverterTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BubbleSorter_a.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/BubbleSorter_a.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/HelloWorld1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsertionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/InsertionSorter_q.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntHolder.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IntHolderIII.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolderIII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IsDigitDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IsDigitDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_0.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_2.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_3.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrue14/FileTest_7.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/App00XX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part1/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure11/Part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListContains.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListContains.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetFirst.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetFirst.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetLast.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetLast.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListGetMiddle.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetMiddle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertFirst.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertFirst.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertLast.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertLast.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lectrure17/TestListInsertMiddle.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertMiddle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app03.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part1/app04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app04.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part2/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part3/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part3/app00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part4/appxxx.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part4/appxxx.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture10/part5/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part5/app00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App30.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture12/part4/App31.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/AllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/DoubleAllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/DownloadFromInternet_lab.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/IOUtils.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/Lab/TestBAOS.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_0_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_1_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_2_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture13/_3_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App00_$.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App00_$.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App04.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App05.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/AppXXX1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/part3/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture6/part3/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/AppXXX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part1/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part2/App02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture7/part4/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part4/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture8/part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part2/App02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App03.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App04.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App05.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lecture9/part1/part4/Ok.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/Ok.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Merger.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Merger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ParserTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ParserTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Parser_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Parser_q.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PermutatorTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/PermutatorTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Permutator_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Permutator_q.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Quiz.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Quiz.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SelectionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SelectionSorter_q.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SingleLLUtils_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SingleLLUtils_1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SubstringDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SubstringDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app00.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app0001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app0002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0002.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/intvalue01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/intvalue01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recurceapp00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/recurceapp00.java" />
+    <list default="true" id="984636f7-1266-40e5-b735-59acaff87963" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/CircleThatFigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/Figure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/RectangleThatFigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/_0_OverloadingTestA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobotManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/Robot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotExt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/ООП/TestVariable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/BreakFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/CheckFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/ContinueFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForThree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFourth.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchSecond.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchThird.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/project1_1/Stepic/PrimitiveType.class" afterPath="$PROJECT_DIR$/out/production/project1_1/Stepic/PrimitiveType.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00000.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00000.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00001x.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10fib11.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib11.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App21fib11.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40x.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App40x.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/AppCounter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/AppCounter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverter.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverterTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ArrayInverterTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/BubbleSorter_a.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/BubbleSorter_a.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/InsertionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/InsertionSorter_q.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolder.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolderIII.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IntHolderIII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IsDigitDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/IsDigitDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Merger.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Merger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Node.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ParserTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/ParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Parser_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Parser_q.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/PermutatorTest.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/PermutatorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Permutator_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Permutator_q.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SelectionSorter_q.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SelectionSorter_q.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SingleLLUtils_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SingleLLUtils_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SubstringDemo.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/SubstringDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0001.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0002.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app0002.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/app01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/intvalue01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/intvalue01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/App01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part2/App02.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App03.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App04.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/App05.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/Ok.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/part1/part4/Ok.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/recurceapp00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/recurceapp00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part1/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lectrure11/Part2/App02.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app02.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app03.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app03.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part1/app04.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part2/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part3/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part3/app00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part4/appxxx.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part4/appxxx.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part5/app00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture10/part5/app00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part1/App01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App10.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App001.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App001.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App00_$.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App00_$.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App02.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App04.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App04.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App05.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/App05.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX1.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/AppXXX1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/AppXXX.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture6/part3/AppXXX.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part1/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part2/App02.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part2/App02.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part4/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture7/part4/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part1/App01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App00.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App00.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App01.java" afterPath="$PROJECT_DIR$/src/Golovach_courses/Lecture8/part2/App01.java" />
     </list>
     <ignored path="project1_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,12 +161,103 @@
     <favorites_list name="project1_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#170#171#0" expanded="false" />
+                <element signature="e#206#207#0" expanded="false" />
+                <element signature="e#239#240#0" expanded="false" />
+                <element signature="e#268#269#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestVariable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/TestVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RobotManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewRobot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RobotExt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotExt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#302#303#0" expanded="false" />
+                <element signature="e#350#351#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewRobotManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobotManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XSLT Stylesheet" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -151,48 +273,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lecture10/part2/App00.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/app00.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part3/app00.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part4/appxxx.java" />
-        <option value="$PROJECT_DIR$/src/Lecture10/part5/app00.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure11/Part1/App00.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure11/Part2/App00.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure11/Part2/App01.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure11/Part2/App02.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/App01.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/part1/App01.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/part4/App10.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/part1/App00.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/part4/App30.java" />
-        <option value="$PROJECT_DIR$/src/Lecture12/part4/App31.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/_0_Charset.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/_1_Charset.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/_2_Charset.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/_3_Charset.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/Lab/DownloadFromInternet_lab.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/Lab/IOUtils.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/Lab/TestBAOS.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/Lab/AllocateStrategy.java" />
-        <option value="$PROJECT_DIR$/src/Lecture13/Lab/DoubleAllocateStrategy.java" />
-        <option value="$PROJECT_DIR$/src/Lectrue14/FileTest_0.java" />
-        <option value="$PROJECT_DIR$/src/Lectrue14/FileTest_1.java" />
-        <option value="$PROJECT_DIR$/src/Lectrue14/FileTest_2.java" />
-        <option value="$PROJECT_DIR$/src/Lectrue14/FileTest_3.java" />
-        <option value="$PROJECT_DIR$/src/Lectrue14/FileTest_7.java" />
-        <option value="$PROJECT_DIR$/src/yetHelloWorld1.java" />
-        <option value="$PROJECT_DIR$/src/HelloWorld1.java" />
-        <option value="$PROJECT_DIR$/src/Quiz.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/ExampleIterable_1.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/ListExample_1_iter_while.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/TestInterval.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/IteratorUtils.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/IntervalIterable.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/IntervalIterator.java" />
-        <option value="$PROJECT_DIR$/src/Lecture16/IteratorToISAdapterTest.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure17/TestListContains.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure17/TestListGetFirst.java" />
-        <option value="$PROJECT_DIR$/src/Lectrure17/TestListGetLast.java" />
         <option value="$PROJECT_DIR$/src/Lectrure17/TestListGetMiddle.java" />
         <option value="$PROJECT_DIR$/src/Lectrure17/TestListInsertFirst.java" />
         <option value="$PROJECT_DIR$/src/Lectrure17/TestListInsertLast.java" />
@@ -201,7 +281,49 @@
         <option value="$PROJECT_DIR$/src/Golovach_courses/App10.java" />
         <option value="$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App00002.java" />
         <option value="$PROJECT_DIR$/src/Java_courses_ru/Porayadok_operation/LoopForOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForThree.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForFour.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForFive.java" />
         <option value="$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFour.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileFirst.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/CheckFirst.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/BreakFirst.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/ContinueFirst.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureOne.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureTwo.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFree.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFour.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFirst.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchSecond.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchThird.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFourth.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/Robot.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotManager.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils0.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/_0_OverloadingTestA.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestB.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/Figure.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/CircleThatFigure.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/RectangleThatFigure.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestA.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils2.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils1.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/_3_OverloadingTest.java" />
+        <option value="$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils3.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/TestVariable.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobot.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobotManager.java" />
+        <option value="$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotExt.java" />
       </list>
     </option>
   </component>
@@ -222,9 +344,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
+    <option name="x" value="714" />
     <option name="y" value="25" />
-    <option name="width" value="676" />
+    <option name="width" value="645" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -252,6 +374,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,11 +409,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project1_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_courses_ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project1_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_courses_ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ООП" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,25 +473,26 @@
       <recent name="C:\Users\RockX5G\IdeaProjects\project1_1\src\Lecture8" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Golovach_courses.Lection20" />
+      <recent name="Java_courses_ru.Порядок_операций" />
+      <recent name="Java_courses_ru" />
       <recent name="Lectrure17" />
       <recent name="Lectrue14" />
-      <recent name="Lecture12.part4" />
-      <recent name="Lectrure11.Part2" />
-      <recent name="Lecture10.part1" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Golovach_courses.Lection20" />
       <recent name="Lecture16" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimitiveType">
-    <configuration default="false" name="TestListGetMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NewRobotManager">
+    <configuration default="false" name="SwitchFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
+          <option name="PATTERN" value="Java_courses_ru.Порядок_операций.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListGetMiddle" />
+      <option name="MAIN_CLASS_NAME" value="Java_courses_ru.Порядок_операций.SwitchFourth" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,14 +505,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestListInsertFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RobotManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
+          <option name="PATTERN" value="Java_courses_ru.ООП.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertFirst" />
+      <option name="MAIN_CLASS_NAME" value="Java_courses_ru.ООП.RobotManager" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -362,14 +525,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestListInsertLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_0_OverloadingTestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
+          <option name="PATTERN" value="Golovach_courses.Lection20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertLast" />
+      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lection20._0_OverloadingTestA" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -382,14 +545,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestListInsertMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Golovach_courses.Lectrure17.*" />
+          <option name="PATTERN" value="Java_courses_ru.ООП.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Golovach_courses.Lectrure17.TestListInsertMiddle" />
+      <option name="MAIN_CLASS_NAME" value="Java_courses_ru.ООП.TestVariable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,14 +565,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PrimitiveType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="NewRobotManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Stepic.*" />
+          <option name="PATTERN" value="Java_courses_ru.ООП.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Stepic.PrimitiveType" />
+      <option name="MAIN_CLASS_NAME" value="Java_courses_ru.ООП.NewRobotManager" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -2069,19 +2232,19 @@
       <item index="71" class="java.lang.String" itemvalue="Application.App00002" />
       <item index="72" class="java.lang.String" itemvalue="Application.App40x" />
       <item index="73" class="java.lang.String" itemvalue="Application.App40" />
-      <item index="74" class="java.lang.String" itemvalue="Application.TestListGetMiddle" />
-      <item index="75" class="java.lang.String" itemvalue="Application.TestListInsertFirst" />
-      <item index="76" class="java.lang.String" itemvalue="Application.TestListInsertLast" />
-      <item index="77" class="java.lang.String" itemvalue="Application.TestListInsertMiddle" />
-      <item index="78" class="java.lang.String" itemvalue="Application.PrimitiveType" />
+      <item index="74" class="java.lang.String" itemvalue="Application.SwitchFourth" />
+      <item index="75" class="java.lang.String" itemvalue="Application.RobotManager" />
+      <item index="76" class="java.lang.String" itemvalue="Application._0_OverloadingTestA" />
+      <item index="77" class="java.lang.String" itemvalue="Application.TestVariable" />
+      <item index="78" class="java.lang.String" itemvalue="Application.NewRobotManager" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrimitiveType" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestListInsertMiddle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestListInsertLast" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestListInsertFirst" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestListGetMiddle" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NewRobotManager" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestVariable" />
+        <item index="2" class="java.lang.String" itemvalue="Application._0_OverloadingTestA" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RobotManager" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SwitchFourth" />
       </list>
     </recent_temporary>
   </component>
@@ -2230,7 +2393,26 @@
       <workItem from="1468512889431" duration="499000" />
       <workItem from="1468515568348" duration="501000" />
       <workItem from="1469370244607" duration="1053000" />
-      <workItem from="1469371631574" duration="274000" />
+      <workItem from="1469371631574" duration="1106000" />
+      <workItem from="1469886552774" duration="1155000" />
+      <workItem from="1469888409272" duration="1187000" />
+      <workItem from="1470495687770" duration="1897000" />
+      <workItem from="1470534844135" duration="1659000" />
+      <workItem from="1470536850614" duration="2449000" />
+      <workItem from="1470544967876" duration="1748000" />
+      <workItem from="1470546985972" duration="1691000" />
+      <workItem from="1470548928363" duration="1749000" />
+      <workItem from="1470577137386" duration="1143000" />
+      <workItem from="1470750051384" duration="1463000" />
+      <workItem from="1470751865868" duration="1752000" />
+      <workItem from="1471064631803" duration="1675000" />
+      <workItem from="1471066475028" duration="1709000" />
+      <workItem from="1471068370947" duration="593000" />
+      <workItem from="1471084439645" duration="584000" />
+      <workItem from="1471090977767" duration="679000" />
+      <workItem from="1471093370470" duration="1250000" />
+      <workItem from="1471095831427" duration="1676000" />
+      <workItem from="1471147702518" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="New changes">
       <created>1468516066488</created>
@@ -2239,11 +2421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1468516066488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New changes">
+      <created>1469372132745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1469372132745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187723000" />
+    <option name="totallyTimeSpent" value="215218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2255,35 +2444,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="25" width="676" height="743" extended-state="4" />
-    <editor active="false" />
+    <frame x="714" y="25" width="645" height="743" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792792" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3006431" sideWeight="0.4908953" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33873874" sideWeight="0.5121396" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.5243243" sideWeight="0.48786038" order="10" side_tool="false" content_ui="combo" x="700" y="534" width="644" height="211" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21815287" sideWeight="0.4830918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21273032" sideWeight="0.4830918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24879615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28410915" sideWeight="0.5169082" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006431" sideWeight="0.4908953" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.5243243" sideWeight="0.48786038" order="10" side_tool="false" content_ui="combo" x="765" y="482" width="589" height="269" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792792" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2328,7 +2517,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2337,239 +2526,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/App00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure11/App00XX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Double.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/zip/GZIPInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture12/part4/App31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_0_Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/Reader.java" />
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_3_Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_2_Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/_1_Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DoubleAllocateStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/AllocateStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/TestBAOS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/IOUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lecture13/Lab/DownloadFromInternet_lab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/FileFilter.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/File.java" />
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/HelloWorld1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrue14/FileTest_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/Quiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lecture16/IteratorToISAdapterTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture16/TestInterval.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture16/IteratorUtils.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture16/IntervalIterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lecture16/IntervalIterable.java" />
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListContains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetMiddle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertLast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListGetLast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lectrure17/TestListInsertMiddle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stepic/PrimitiveType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection1_5/App10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/LoopForOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2577,7 +2537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2585,7 +2544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2593,7 +2551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2601,7 +2558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2609,7 +2565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2617,7 +2572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2625,7 +2579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2633,7 +2586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2641,6 +2593,306 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopWhileFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/BreakFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/ContinueFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForWithIfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/CheckFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureFree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopDoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/LoopForFigureOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/Порядок_операций/SwitchFourth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/_0_OverloadingTestA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/CircleThatFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/RectangleThatFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/_1_OverloadingTestB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/FigureUtils1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/_3_OverloadingTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Golovach_courses/Lection20/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#170#171#0" expanded="false" />
+            <element signature="e#206#207#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/TestVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/RobotExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_courses_ru/ООП/NewRobotManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
