@@ -1,4 +1,4 @@
-package Java_courses_ru.Полиморфизм.Граффическое_приложение;
+package Java_courses_ru.Полиморфизм.Графическое_приложение_BoxLayout;
 
 import javax.swing.*;
 import java.awt.*;

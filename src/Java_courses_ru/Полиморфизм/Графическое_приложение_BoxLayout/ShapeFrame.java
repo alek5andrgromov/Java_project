@@ -1,4 +1,4 @@
-package Java_courses_ru.Полиморфизм.Граффическое_приложение;
+package Java_courses_ru.Полиморфизм.Графическое_приложение_BoxLayout;
 
 import javax.swing.*;
 import java.awt.*;
@@ -11,7 +11,7 @@ public class ShapeFrame extends JFrame{
     public ShapeFrame() {
         // Устанавливаем LayoutManager в виде таблицы
         // размерами 2 строки на 3 столбца
-        setLayout(new GridLayout(2, 3));
+        setLayout(new BoxLayout(getContentPane(),BoxLayout.X_AXIS));
 
         // Создаем и "укладываем" на форму компоненты разных классов
         add(new OvalComponent());
@@ -21,7 +21,8 @@ public class ShapeFrame extends JFrame{
         add(new RectangleComponent());
         add(new TriangleComponent());
 
+
         // Устанавливаем координаты и размеры окна
-        setBounds(200, 200, 450, 350);
+        setBounds(100, 100, 400, 300);
     }
 }
